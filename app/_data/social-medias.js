@@ -1,18 +1,18 @@
 export const socialMedias = [
   {
-    href: 'https://www.awwwards.com/dennissnellenberg/',
-    title: 'Awwwards',
+    href: 'https://github.com/madhubani15',
+    title: 'Github',
   },
   {
-    href: 'https://www.instagram.com/codebydennis/',
+    href: 'https://www.instagram.com/madhubani__/',
     title: 'Instagram',
   },
   {
-    href: 'https://dribbble.com/dennissnellenberg',
-    title: 'Dribbble',
+    href: 'mandabi4u@gmail.com',
+    title: 'Mail',
   },
   {
-    href: 'https://www.linkedin.com/in/dennissnellenberg/',
+    href: 'https://www.linkedin.com/in/mandabi-mandal/',
     title: 'LinkedIn',
   },
 ];
